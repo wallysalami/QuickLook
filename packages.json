@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Quick Look",
+			"description": "Provides a command for opening Finder in the current directory ",
+			"author": "Kalle Persson",
+			"homepage": "https://github.com/wallysalami/QuickLook",
+			"last_modified": "2013-01-03 10:28:00",
+			"platforms": {
+				"osx": [
+					{
+						"version": "1.0.0",
+						"url": "https://nodeload.github.com/wallysalami/QuickLook/zipball/1.0"
+					}
+				]
+			}
+		}
+	]
+}

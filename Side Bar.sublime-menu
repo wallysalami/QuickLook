@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "Quick Look",
+        "command": "quicklook",
+        "args": {"paths": []}
+    }
+]
