@@ -3,8 +3,8 @@
 	"packages": [
 		{
 			"name": "Quick Look",
-			"description": "Provides a command for opening Finder in the current directory ",
-			"author": "Kalle Persson",
+			"description": "Display the Quick Look of a file on Sublime Text 2 (running on Mac OS X).",
+			"author": "Jan Krueger Siqueira",
 			"homepage": "https://github.com/wallysalami/QuickLook",
 			"last_modified": "2013-01-03 10:28:00",
 			"platforms": {
