@@ -10,8 +10,8 @@
 			"platforms": {
 				"osx": [
 					{
-						"version": "1.0.0",
-						"url": "https://nodeload.github.com/wallysalami/QuickLook/zip/v1.0.2"
+						"version": "1.0.3",
+						"url": "https://nodeload.github.com/wallysalami/QuickLook/zip/v1.0.3"
 					}
 				]
 			}
